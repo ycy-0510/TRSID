@@ -17,6 +17,8 @@ It is powered by a WS2812 LED strip and a tiny OLED display. The system informat
 ## PCB
 The PCB is designed to be compact and efficient, with a focus on minimizing power consumption and external wiring. 
 
+It is designed with EASYEDA, and the project link is [here](https://oshwlab.com/chengyanyang0510/project_qzuwjpkp).
+
 ### Main components
 - SSD1322 OLED display
 - WS2812 LED * 8
