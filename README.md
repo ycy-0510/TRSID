@@ -1,7 +1,7 @@
 # TRSID
 Tiny Raspi System information display
 
-![TRSID](./image/Assembly%201.png)
+![TRSID](https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/Assembly%201.png)
 
 ## Description
 This project is a tiny system information display for a Raspberry Pi.
@@ -28,8 +28,8 @@ It is designed with EASYEDA, and the project link is [here](https://oshwlab.com/
 ### PCB Layout
 <table>
   <tr>
-    <td><img src="./image/PCB1.png" alt="PCB Layout 1"></td>
-    <td><img src="./image/PCB2.png" alt="PCB Layout 2"></td>
+    <td><img src="https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/PCB1.png" alt="PCB Layout 1"></td>
+    <td><img src="https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/PCB2.png" alt="PCB Layout 2"></td>
   </tr>
 </table>
 
@@ -45,9 +45,9 @@ The case for the TRSID is designed to be 3D printed. The design is simple and fu
         <td>Support Part</td>
     </tr>
     <tr>
-        <td><img src="./image/Top.png" alt="Top Part"></td>
-        <td><img src="./image/Bottom.png" alt="Bottom Part"></td>
-        <td><img src="./image/Support.png" alt="Support Part"></td>
+        <td><img src="https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/Top.png" alt="Top Part"></td>
+        <td><img src="https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/Bottom.png" alt="Bottom Part"></td>
+        <td><img src="https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/Support.png" alt="Support Part"></td>
     </tr>
     <tr>
         <td>Button extension</td>
@@ -55,8 +55,8 @@ The case for the TRSID is designed to be 3D printed. The design is simple and fu
         <td></td>
     </tr>
      <tr>
-        <td><img src="./image/Button_extension.png" alt="Button Extension"></td>
-        <td><img src="./image/Button_extension_hat.png" alt="Button Extension Hat"></td>
+        <td><img src="https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/Button_extension.png" alt="Button Extension"></td>
+        <td><img src="https://raw.githubusercontent.com/ycy-0510/TRSID/main/image/Button_extension_hat.png" alt="Button Extension Hat"></td>
         <td></td>
     </tr>
 </table>
@@ -99,9 +99,9 @@ The case for the TRSID is designed to be 3D printed. The design is simple and fu
 The code for the TRSID is written in Python and is designed to run on a Raspberry Pi. It uses the `rpi_ws281x` library to control the WS2812 LED strip and the `Adafruit_SSD1322` library to control the OLED display. The code is structured to allow for easy updates and modifications, with clear separation between the different components of the system.
 
 ### Part code
-- [ws2812.py](./code/part/ws2812.py): Code for controlling the WS2812 LED strip.
-- [ssd1306oled.py](./code/part/ssd1306oled.py): Code for controlling the OLED display.
-- [pcf8574.py](./code/part/pcf8574.py): Code for handling button inputs.
+- [ws2812.py](https://raw.githubusercontent.com/ycy-0510/TRSID/main/code/part/ws2812.py): Code for controlling the WS2812 LED strip.
+- [ssd1306oled.py](https://raw.githubusercontent.com/ycy-0510/TRSID/main/code/part/ssd1306oled.py): Code for controlling the OLED display.
+- [pcf8574.py](https://raw.githubusercontent.com/ycy-0510/TRSID/main/code/part/pcf8574.py): Code for handling button inputs.
 
 ### Main code
-- [main.py](./code/main.py): Main code that integrates all components and implements the system information display functionality.
+- [main.py](https://raw.githubusercontent.com/ycy-0510/TRSID/main/code/main.py): Main code that integrates all components and implements the system information display functionality.
