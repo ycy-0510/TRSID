@@ -38,6 +38,7 @@ The case for the TRSID is designed to be 3D printed. The design is simple and fu
 ### 3D Model
 3D models are separately designed for the top, bottom, and support parts of the case. The top part includes cutouts for the OLED display, buttons and thin shell for the WS2812 LED strip. It also designs as housing for the PCB. The bottom part is designed to be a simple cover the top part and has a connection track for the support part. The support part is designed to make the top and bottom parts stand at a 45-degree angle, providing better visibility of the display and easier access to the buttons.
 
+It is designed with OnShape, and the project link is [here](https://cad.onshape.com/documents/a4710ab7be3b6c054e07b878/w/2be8e1274c556d9d3fb8e346/e/1eefdb152957cf088d041770?renderMode=0&uiState=6a39ee6cbb772bc78aa2a0a7).
 <table>
     <tr>
         <td>Top Part</td>
